@@ -1,4 +1,4 @@
-package com.programa_costos;
+	package com.programa_costos;
 
 import com.programa_costos.view.VentanaPrincipal;
 
